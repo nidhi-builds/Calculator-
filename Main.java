@@ -1,7 +1,7 @@
 /*
 Name: Nidhi Pandit
-PRN: SIT12345678
-Batch: A1
+PRN: 23070126081
+Batch: B1
 */
 
 import java.util.Scanner;
